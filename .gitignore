@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+
+# add myself no need codes
+checkpoints/
+images/
+mmdeploy/
+mmdeploy-0.13.0-windows-amd64-cuda11.1-tensorrt8.2.3.0/
+work_dir/
