@@ -7,6 +7,7 @@ from utils import TEMP_IMAGES
 from utils import TEMP_IMAGES_RESULT
 from utils import PROJECT_PATH
 
+
 # 设置项目的根本路径
 project_path = 'D:/pycharm_work_place/admin_system_server/'
 # 指定模型的配置文件和 checkpoint 文件路径
